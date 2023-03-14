@@ -3,5 +3,8 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 Sed aliquam est eu diam imperdiet sodales. Phasellus sed massa nulla.
 Maecenas mollis vel sapien at tempus. Integer est massa, 
+```
+Console.log("Hello Markdown")
 
+```
 ![Image of logo](https://img.freepik.com/premium-vector/ma-logo-design_579179-1209.jpg)
